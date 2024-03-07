@@ -1,4 +1,4 @@
-- 👋 Hi, I’m antonio mauricio
+- 👋 Hi, I’m Antonio mauricio
 - 👀 I’m interested in progamação java
 - 🌱 I’m currently learning java
 - 📫 How to reach me @antoniomauriciodev
