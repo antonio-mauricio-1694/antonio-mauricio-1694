@@ -12,7 +12,7 @@ object **SEU NOME** {
  val name = "ANTONIO MAURICIO DE SOUSA SILVA"
  val acknowledgements = "ÁREA DE CONHECIMENTO: FULSTACK DEVELOPER"
  
- val primarySkillset = "HABILIDADES: COUMICAÇÃO,FLEXIVEL, OBSERVADO, liderança, EMPATIA, ENTRE OUTRAS"
+ val primarySkillset = "HABILIDADES: COUMICAÇÃO,FLEXIVEL, OBSERVADO, LIDERANÇA, EMPATIA, ENTRE OUTRAS"
  val languages = listOf("Java" ,"php","Amgular", "JavaScript", "Html","Css") 
 
 }
