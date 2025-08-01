@@ -11,7 +11,6 @@
 
 - 👨‍🔧 técnico em informatica, hoje trilho minha jornada como desenvolvedor de software.
 - 📚 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul) e formado em Desenvolvimento FullStack pela jdevTreinamentos e Rasmoo.
-- 🧠 Valorizo boas práticas como **Clean Code**, **Design Patterns** e **Metodologias Ágeis**.
 - 🎯 Gosto de resolver  problema !
 
 
