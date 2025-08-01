@@ -1,45 +1,61 @@
+<h1 align="center">Olá! Eu sou o Antonio Mauricio👋</h1>
 
-### Oie devs 👋
+<p align="center">
+  <b>FullStack Developer</b> em transição de carreira, com raízes no Piaui, Brasil 🇧🇷 <br/>
+  Apaixonado por tecnologia e por criar soluções e ver o brilho no olhar de quem usa oque crio !
+</p>
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+---
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
+## 🚀 Sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **SEU NOME** {
- val name = "ANTONIO MAURICIO DE SOUSA SILVA"
- val acknowledgements = "ÁREA DE CONHECIMENTO: FULSTACK DEVELOPER"
- 
- val primarySkillset = "HABILIDADES: COUMICAÇÃO,FLEXIVEL, OBSERVADO, LIDERANÇA, EMPATIA, ENTRE OUTRAS"
- val languages = listOf("Java" ,"php","Amgular", "JavaScript", "Html","Css") 
-
-}
-```
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
-## 🚀 Minhas Redes
-<p align="left">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=" /></a>
-
-  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ant%C3%B4nio-mauricio-de-sousa-silva-801161259//" /></a>
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=https://www.instagram.com/"/></a>
-</p>  
-## 🚀 Minhas Skills
+- 👨‍🔧 técnico em informatica, hoje trilho minha jornada como desenvolvedor de software.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul) e formado em Desenvolvimento FullStack pela jdevTreinamentos e Rasmoo.
+- 🧠 Valorizo boas práticas como **Clean Code**, **Design Patterns** e **Metodologias Ágeis**.
+- 🎯 Gosto de resolver  problema !
 
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php"/></code>
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+ <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardorochadev&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardorochadev&layout=compact&theme=github_dark&langs_count=8&hide_border=true"/>
+</div>
+
+---
+
+## 🌐 Onde me encontrar
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/antonio-maur%C3%ADcio-de-sousa-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="antoniomauriciodev194@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+
+---
+
 
