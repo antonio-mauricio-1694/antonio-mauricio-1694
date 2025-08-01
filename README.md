@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Antonio Mauricio👋</h1>
 
 <p align="center">
-  <b>FullStack Developer</b> em transição de carreira, com raízes no Piaui, Brasil 🇧🇷 <br/>
+  <b>FullStack Developer</b> em transição de carreira, com raízes no Piauí, Brasil 🇧🇷 <br/>
   Apaixonado por tecnologia e por criar soluções e ver o brilho no olhar de quem usa oque crio !
 </p>
 
