@@ -1,7 +1,7 @@
 <h1 align="center">Olá! Eu sou o Antonio Mauricio👋</h1>
 
 <p align="center">
-  <b>FullStack Developer</b> em transição de carreira, com raízes no Piauí, Brasil 🇧🇷 <br/>
+  <b>FullStack Developer</b> com raízes no Piauí, Brasil 🇧🇷 <br/>
   Apaixonado por tecnologia e por criar soluções e ver o brilho no olhar de quem usa oque crio !
 </p>
 
@@ -10,7 +10,7 @@
 ## 🚀 Sobre mim
 
 - 👨‍🔧 técnico em informatica, hoje trilho minha jornada como desenvolvedor de software.
-- 📚 Estudante de Análise e Desenvolvimento de Sistemas (Cruzeiro do Sul) e formado em Desenvolvimento FullStack pela jdevTreinamentos e Rasmoo.
+- 📚 Estudante de Análise e Desenvolvimento de Sistemas (Universidade focus) e formado em Desenvolvimento FullStack pela jdevTreinamentos e Rasmoo.
 - 🎯 Gosto de resolver  problema !
 
 
@@ -19,7 +19,7 @@
 ## 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
