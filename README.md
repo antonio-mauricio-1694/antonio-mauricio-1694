@@ -32,7 +32,7 @@ Sou desenvolvedor **Full Stack** apaixonado por tecnologia e construção de sis
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,spring,python,nodejs,mysql,postgres,git,github" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,spring,python,nodejs,mysql,postgres,git,php" />
 
 </p>
 
