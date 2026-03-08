@@ -1,86 +1,86 @@
-<h1 align="center">Olá! Eu sou Antonio Mauricio 👋</h1>
+<!-- BANNER / TYPING EFFECT -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Antonio+Mauricio;Full+Stack+Developer;Angular+•+Java+Spring+•+Python;Building+real+solutions+with+code" />
+</p>
+
+<h1 align="center">🚀 Antonio Mauricio</h1>
 
 <p align="center">
-  <b>Full Stack Developer</b> • Brasil 🇧🇷 <br/>
-  Transformando ideias em software funcional e soluções que realmente ajudam pessoas.
+Desenvolvedor Full Stack apaixonado por tecnologia, software bem construído e soluções que realmente ajudam pessoas.
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=antonio-mauricio-1694&color=blue&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=antonio-mauricio-1694&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-## 🚀 Sobre mim
+# 🧠 Sobre mim
 
-💻 Desenvolvedor Full Stack apaixonado por tecnologia e construção de soluções reais.
+💻 Desenvolvedor focado em construir aplicações modernas e eficientes.
 
 - 👨‍🔧 Técnico em Informática  
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** — Universidade Focus  
-- 🎓 Formação **FullStack Developer** — JDev Treinamentos & Rasmoo  
-- 🧠 Foco em **desenvolvimento web moderno e boas práticas de software**
-- 🔍 Gosto de **resolver problemas e transformar ideias em sistemas funcionais**
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 🎓 Formação **Full Stack Developer — JDev Treinamentos & Rasmoo**  
+- ⚡ Foco em **Web Development, Arquitetura de Software e Performance**
+- 🎯 Sempre buscando evoluir como desenvolvedor e criar projetos relevantes
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+# ⚡ Tech Stack
 
-<div align="center">
+<p align="center">
 
-<img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,spring,python,nodejs,mysql,postgres,git,github,vscode" />
 
-<br>
-
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</div>
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+# 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-mauricio-1694&show_icons=true&theme=github_dark&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=antonio-mauricio-1694&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-mauricio-1694&layout=compact&theme=github_dark&langs_count=8&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-mauricio-1694&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-## 🌐 Conecte-se comigo
+# 🧩 Projetos em Destaque
 
-<div align="center">
+🚀 **Curso de Python**
 
-<a href="https://www.linkedin.com/in/antonio-maur%C3%ADcio-de-sousa-silva/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+Repositório com exercícios, exemplos e projetos para evolução prática em Python.
+
+🔗 https://github.com/antonio-mauricio-1694/curso_python
+
+---
+
+# 🌎 Conecte-se comigo
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/antonio-maur%C3%ADcio-de-sousa-silva/">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:antoniomauriciodev194@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+</p>
 
 ---
 
-⭐ **Sempre aprendendo, construindo e evoluindo como desenvolvedor.**
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=antonio-mauricio-1694&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+<p align="center">
+⚡ “Code is the closest thing we have to magic.”
+</p>
