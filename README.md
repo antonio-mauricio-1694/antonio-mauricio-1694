@@ -32,7 +32,7 @@ Sou desenvolvedor **Full Stack** apaixonado por tecnologia e construção de sis
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,spring,python,nodejs,mysql,postgres,git,github,vscode&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,java,spring,python,nodejs,mysql,postgres,git,github" />
 
 </p>
 
@@ -68,9 +68,6 @@ Repositório com exercícios, exemplos e pequenos projetos para evolução prát
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/antonio-maur%C3%ADcio-de-sousa-silva/">
-<img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 
 <a href="mailto:antoniomauriciodev194@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
