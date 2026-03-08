@@ -68,23 +68,14 @@ Repositório com exercícios, exemplos e pequenos projetos para evolução prát
 
 <p align="center">
 
+<a href="//www.linkedin.com/in/antoniomauricio/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
 
-<a href="mailto:antoniomauriciodev194@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.instagram.com/mauricio.dev15/">
+<img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
 
 </p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=antonio-mauricio-1694&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-<p align="center">
 ⚡ <i>Code is the closest thing we have to magic.</i>
 </p>
